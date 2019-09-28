@@ -1,2 +1,0 @@
-# JSDrumKit
-Created with CodeSandbox
